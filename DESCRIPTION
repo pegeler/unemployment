@@ -1,0 +1,12 @@
+Package: unemployment
+Title: United States Labor Force Data by County, 2015
+Version: 0.1.0
+Authors@R: person("Paul", "Egeler", email = "paulegeler@gmail.com", role = c("aut", "cre"))
+Description: This package contains data for the 2015 United States 
+    Local Area Unemployment Statistics (LAUS) by county, provided by the 
+    US Bureau of Labor and Statistics (BLS) at <https://www.bls.gov/lau/laucnty15.txt>.
+Depends: R (>= 3.4.1)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
