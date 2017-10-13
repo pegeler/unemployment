@@ -1,6 +1,16 @@
 # unemployment
 United States Local Area Unemployment Statistics (LAUS), Annual Averages 1990-2016
 
+## Installation
+
+You must have [`devtools`](https://cran.r-project.org/web/packages/devtools/index.html) installed in order to download and install this package. To do so, type the following into your R console:
+
+    install.packages("devtools")
+
+After you have `devtools`, type the following in the R console to download and install this package:
+
+    devtools::install_github("pegeler/unemployment")
+
 ## Description
 
 Labor force data provided by the US Bureau of Labor and Statistics. From their website (at <https://www.bls.gov/lau/>):
