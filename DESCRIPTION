@@ -1,12 +1,15 @@
 Package: unemployment
-Title: United States Labor Force Data by County, 2015
-Version: 0.1.0
+Title: United States Labor Force Data by County, Annual Averages 1990-2016
+Version: 0.2.0
 Authors@R: person("Paul", "Egeler", email = "paulegeler@gmail.com", role = c("aut", "cre"))
-Description: This package contains data for the 2015 United States 
+Description: This package contains data for the United States 
     Local Area Unemployment Statistics (LAUS) by county, provided by the 
-    US Bureau of Labor and Statistics (BLS) at <https://www.bls.gov/lau/laucnty15.txt>.
+    US Bureau of Labor and Statistics (BLS) at <https://www.bls.gov/lau/tables.htm>.
+    Included is all data from 1990 through 2016.
 Depends: R (>= 3.4.1)
 License: CC0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
+URL: http://github.com/pegeler/unemployment
+BugReports: http://github.com/pegeler/unemployment/issues

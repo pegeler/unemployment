@@ -1,5 +1,5 @@
 # unemployment
-United States Local Area Unemployment Statistics (LAUS) 2015
+United States Local Area Unemployment Statistics (LAUS), Annual Averages 1990-2016
 
 ## Description
 
@@ -13,7 +13,7 @@ Labor force data provided by the US Bureau of Labor and Statistics. From their w
 
 ## Format
 
-A `data.frame` with 3219 rows and 9 variables
+A `data.frame` with 86869 rows and 9 variables
 
 ## Details
 
@@ -31,8 +31,4 @@ The dataset contains the following variables:
 
 ## Source
 
-<https://www.bls.gov/lau/laucnty15.txt>
-
-## Future work
-
-At some point, I would like to read in the data from 1990 to present. The files are available at the BLS website here <https://www.bls.gov/lau/tables.htm>.
+<https://www.bls.gov/lau/tables.htm>

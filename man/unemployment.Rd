@@ -3,10 +3,10 @@
 \docType{data}
 \name{unemployment}
 \alias{unemployment}
-\title{Labor Force Data by County, 2015 Annual Averages}
-\format{A data frame with 3219 rows and 9 variables}
+\title{United States Labor Force Data by County, Annual Averages 1990-2016}
+\format{A data frame with 86869 rows and 9 variables}
 \source{
-\url{https://www.bls.gov/lau/laucnty15.txt}
+\url{https://www.bls.gov/lau/tables.htm}
 }
 \usage{
 data(unemployment)
@@ -23,16 +23,16 @@ metropolitan areas, and many cities, by place of residence.
 \details{
 The dataset contains the following variables:
 
-\itemize{
-  \item LAUS Code
-  \item State FIPS Code
-  \item County FIPS Code
-  \item County Name/State Abbr.
-  \item Year
-  \item Labor Force
-  \item Employed
-  \item Unemployment Level
-  \item Unemployment Rate
+\describe{
+  \item{\code{LAUS.code}}{LAUS Code \emph{character}}
+  \item{\code{STATEFP}}{State FIPS Code \emph{character}}
+  \item{\code{COUNTYFP}}{County FIPS Code \emph{character}}
+  \item{\code{County.Name}}{County Name/State Abbr. \emph{character}}
+  \item{\code{Year}}{Year \emph{integer}}
+  \item{\code{Labor.Force}}{Labor Force \emph{integer}}
+  \item{\code{Employed}}{Employed \emph{integer}}
+  \item{\code{Unemp.Lvl}}{Unemployment Level \emph{integer}}
+  \item{\code{Unemp.Rate}}{Unemployment Rate \emph{numeric}}
 }
 }
 \keyword{datasets}
