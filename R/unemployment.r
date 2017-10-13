@@ -11,16 +11,16 @@
 #' @details
 #' The dataset contains the following variables:
 #'
-#' \describe{
-#'   \item{\code{LAUS.code}}{LAUS Code \emph{character}}
-#'   \item{\code{STATEFP}}{State FIPS Code \emph{character}}
-#'   \item{\code{COUNTYFP}}{County FIPS Code \emph{character}}
-#'   \item{\code{County.Name}}{County Name/State Abbr. \emph{character}}
-#'   \item{\code{Year}}{Year \emph{integer}}
-#'   \item{\code{Labor.Force}}{Labor Force \emph{integer}}
-#'   \item{\code{Employed}}{Employed \emph{integer}}
-#'   \item{\code{Unemp.Lvl}}{Unemployment Level \emph{integer}}
-#'   \item{\code{Unemp.Rate}}{Unemployment Rate \emph{numeric}}
+#' \itemize{
+#'   \item \code{LAUS.code}: LAUS Code (\emph{character})
+#'   \item \code{STATEFP}: State FIPS Code (\emph{character})
+#'   \item \code{COUNTYFP}: County FIPS Code (\emph{character})
+#'   \item \code{County.Name}: County Name/State Abbr. (\emph{character})
+#'   \item \code{Year}: Year (\emph{integer})
+#'   \item \code{Labor.Force}: Labor Force (\emph{integer})
+#'   \item \code{Employed}: Employed (\emph{integer})
+#'   \item \code{Unemp.Lvl}: Unemployment Level (\emph{integer})
+#'   \item \code{Unemp.Rate}: Unemployment Rate (\emph{numeric})
 #' }
 #'
 #' @docType data
