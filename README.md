@@ -1,5 +1,5 @@
 # unemployment
-United States Local Area Unemployment Statistics (LAUS), Annual Averages 1990-2016
+United States Local Area Unemployment Statistics (LAUS), Annual Averages 1990-2017
 
 ## Installation
 
@@ -23,7 +23,7 @@ Labor force data provided by the US Bureau of Labor and Statistics. From their w
 
 ## Format
 
-A `data.frame` with 86869 rows and 9 variables
+A `data.frame` with 90088 rows and 9 variables
 
 ## Details
 

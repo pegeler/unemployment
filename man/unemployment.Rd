@@ -3,8 +3,8 @@
 \docType{data}
 \name{unemployment}
 \alias{unemployment}
-\title{United States Labor Force Data by County, Annual Averages 1990-2016}
-\format{A data frame with 86869 rows and 9 variables}
+\title{United States Labor Force Data by County, Annual Averages 1990-2017}
+\format{A data frame with 90088 rows and 9 variables}
 \source{
 \url{https://www.bls.gov/lau/tables.htm}
 }

@@ -28,5 +28,5 @@
 #' @name unemployment
 #' @usage data(unemployment)
 #' @source \url{https://www.bls.gov/lau/tables.htm}
-#' @format A data frame with 86869 rows and 9 variables
+#' @format A data frame with 90088 rows and 9 variables
 NULL
