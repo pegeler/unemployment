@@ -52,7 +52,7 @@ get_data <- function (file_url) {
 
 file_urls <- paste0(
   "http://www.bls.gov/lau/laucnty",
-  substr(1990:2016, 3,4),
+  substr(1990:2017, 3,4),
   ".txt"
   )
 

@@ -1,4 +1,4 @@
-#' @title United States Labor Force Data by County, Annual Averages 1990-2016
+#' @title United States Labor Force Data by County, Annual Averages 1990-2017
 #'
 #' @description Labor force data provided by the US Bureau of Labor and Statistics.
 #' From their website (at \url{https://www.bls.gov/lau/}):
